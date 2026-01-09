@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "かけてあげる",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-09T00:44:19.751743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かけてあげる",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_かけてあげる_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kakete Ageru [かけてあげる]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_Kakete_Ageru_[かけてあげる]_DAOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かけてあげる",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/pl_01_かけてあげる_DAOKO.txt"
+    }
+  ]
+}
